@@ -1,2 +1,2 @@
 # Dating-service
-Bootstrap slides
+Nice layout with bootstrap powered slides
